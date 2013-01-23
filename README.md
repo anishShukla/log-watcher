@@ -1,7 +1,7 @@
 log-watcher
 ===========
 
-log-watcher is python script to verify debug print/ message sequence on continuously generated log file.
+log-watcher is python script to verify debug print/ message sequence in a continuously generated log file.
 #Log - Watcher 1.0
 
 This script I am using to verify my test cases on the basis of call flow.
